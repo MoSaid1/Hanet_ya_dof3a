@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">هانت يا دفعة</string>
+    <string name="kareg2mta">خارج امتا يا كحول</string>
+    <string name="_3">3</string>
+    <string name="_9">9</string>
+    <string name="todo">TODO</string>
+    <string name="_6">6</string>
+    <string name="_12">12</string>
+    <string name="_2022">2022</string>
+    <string name="_2024">2024</string>
+    <string name="plus_year">معاك سنه زياده؟</string>
+    <string name="_2023">2023</string>
+
+    <string-array name="planets_array">
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+    </string-array>
+
+</resources>
